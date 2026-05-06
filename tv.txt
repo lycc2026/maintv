@@ -152,9 +152,7 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 
 
-数字频道,#genre#
-南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+
 
 
 
@@ -193,6 +191,16 @@ J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+NOW TV1,http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
+NOW TV2,https://c.fulltvizle.com/fox/index.m3u8
+NOW TV3,http://116.202.238.88/FOXTV_TR/index.m3u8
+NOW TV (720p),https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+RightNow TV (720p)1,https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
+RightNow TV (720p)2,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/rightnowtv_720p/playlist.m3u8
+RightNow TV (720p)3,https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+Now TV (720p),https://delivery.upictv.co.bw/NOW-TV-DNL/index.m3u8
+Now TV1,https://videostream.jpbgdigital.com/NOWTV.m3u8
+now tv2,https://stream1.freetv.fun/9a86f6504ebc39ebede157d2cf9c33aaf0bebea50e8abf8d609327539a7acbe0.m3u8
 
 体育频道,#genre#
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
