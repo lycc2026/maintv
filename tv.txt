@@ -193,6 +193,41 @@ J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 Now TV1,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8?ads.vf=XXIrbw6_Odq
 now tv2,https://stream1.freetv.fun/9a86f6504ebc39ebede157d2cf9c33aaf0bebea50e8abf8d609327539a7acbe0.m3u8
+香港有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+香港有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+香港有线新闻,http://43.161.238.180/QQ群975488188/live.php?id=P2FjdD1wbGF5JnRva2VuPTI5M2NhYzc0NTljYzM1NWY2MjgxNTQ3NTA3ZGU2M2ZjJnRpZD10diZpZD0yOQ==
+香港有线新闻,http://43.161.238.180/QQ群975488188/live.php?id=P2FjdD1wbGF5JnRva2VuPWU1NjQxYzdhYzMyM2Q4NzdhYWY5ZGMwYzY0MWNkNzNlJnRpZD13aW50djEyMyZpZD02
+香蕉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+香港電台,https://livedoc.cgtn.com/1000d/prog_index.m3u8
+香港電台,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
+凤凰香港,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+凤凰香港,http://j.s.bkpcp.top/js/fhxg
+now sports精选,http://php.jdshipin.com:8880/xsj.php?id=now-sports-prime
+now sports 英超1,http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league1
+now sports plus,http://php.jdshipin.com:8880/xsj.php?id=now-sports-plus
+axs tv now ,https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+axs tv now ,https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+axs tv now ,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+axs tv now ,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+axs tv now ,https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+axs tv now ,http://kuchini.site:8080/7abb81c7/e9c0e4445d/82513
+axs tv now ,https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+axs tv now ,https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8
+axs tv now ,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iURw5LyXoQVmBcqfGwYe6mNWgOtowoi5ZaMR7-hWtVRxQyNA4-RXgcxEs_AoboYYOEyqG_fOZdZvTJaicti_kzLlyCU5exlWYwIxQhlsEn_-nC-FizF9IIIblT4gV97XonTxMfLvzBBkAeH2CdC_7er5gbKWUaAKSRwh5ne14Vowx3R9-4h9jIxtjq6XyYmuAdPmiKLEUDh4vhGzMmlbGE8g.m3u8?u=1756878715
+Now Sports 1,http://php.jdshipin.com:8880/xsj.php?id=now-sports-1
+Now Sports 1,https://7pal.short.gy/nowsport4k
+Now Sports 1,http://ali.hlspull.yximgs.com/live/mS8sKOm2YsxvCYyeHxxAHRHpH8Ygo6rw.flv
+Now Sports Hd,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
+Now Sports Hd,https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+Now Sports Hd,http://a9.lion.wine:80/live/Tony9100/QuEK1174/827935.ts
+澳視澳門,rtmp://live4.tdm.com.mo:80/ch1/_definst_/ch1.live
+澳視澳門,rtmp://live4.tdm.com.mo:80/ch1/_definst_/ch1.live
+澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
+澳门莲花,http://ali.hlspull.yximgs.com/live/T2L6qyvgmsfsiWqtC5IDixQ3YN1Z1U0U.flv
+澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
+
+
 
 体育频道,#genre#
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
